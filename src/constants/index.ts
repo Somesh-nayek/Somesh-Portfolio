@@ -129,7 +129,7 @@ import {
       ],
     },
     {
-      title: "Smart Bengal Hackathon (SBH) 2024 - Participant",
+      title: "Smart Bengal Hackathon (SBH) 2024,2025 - Participant",
       company_name: "Government of West Bengal",
       icon: sbh,
       iconBg: "#E6DEDD",
@@ -141,7 +141,7 @@ import {
       ],
     },
     {
-      title: "Smart India Hackathon (SIH) 2024 - Participnt",
+      title: "Smart India Hackathon (SIH) 2024,2025 - Participnt",
       company_name: "Government of India",
       icon: sih,
       iconBg: "#E6DEDD",
@@ -171,7 +171,7 @@ import {
       iconBg: "#383E56",
       date: "Ongoing",
       points: [
-        "Solved 100+ problems on LeetCode, focusing on Graphs, Dynamic Programming, and Greedy Algorithms.",
+        "Solved 250+ problems on LeetCode, focusing on Graphs, Dynamic Programming, and Greedy Algorithms.",
         "Regularly practice and participate in coding challenges to improve problem-solving skills.",
       ]
     }
